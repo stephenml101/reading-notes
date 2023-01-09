@@ -2,7 +2,7 @@
 **My Reading Journal for Code Fellows**
 
 ## **A Growth Mindset**
-A Growth Mindset is always having a "can do" attitude. It is knowing that you have the potential to do anything you put your mind to. It is instilling good  habits consistently, while also knowing that you can always improve. You should always try to avoid a ~fixed mindset.~
+A Growth Mindset is always having a "can do" attitude. It is knowing that you have the potential to do anything you put your mind to. It is instilling good  habits consistently, while also knowing that you can always improve. You should always try to avoid a ~fixed mindset~.
 
 I can remind myself of a growth mindset by remembering ***3 points***:
 
