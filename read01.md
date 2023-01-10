@@ -2,7 +2,7 @@
 
 * **First Article**
 
-![Markdown Basic Syntax](https://www.markdownguide.org/basic-syntax/)
+[Markdown Basic Syntax](https://www.markdownguide.org/basic-syntax/)
 
 ## Things that stood out
 * Headings use the "#" symbol. The more symbols there are, the less important the heading is.
@@ -13,7 +13,7 @@
 
 * **Second Article**
 
-![Mastering Markdown on GitHub](https://guides.github.com/features/mastering-markdown/).
+[Mastering Markdown on GitHub](https://guides.github.com/features/mastering-markdown/).
 
 ### Things that stood out
 * Make sure to put a line break under a footnote[^1].
@@ -22,7 +22,7 @@
 
 * **Video**
 
-![Click Here](https://pages.github.com/)
+[Click Here](https://pages.github.com/)
 
 #### Notes on the Video
 
