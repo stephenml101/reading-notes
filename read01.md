@@ -30,7 +30,9 @@
 * Uses the most direct path to create websites
 * More simple than HTML
 * Uses repository to create website
-* Go to ![this link](https://pages.github.com) to find out more about what GitHub has to offer
+* Go to [this link](https://pages.github.com) to find out more about what GitHub has to offer
+
+[Back to Table of Contents](./README.md)
  
 
 

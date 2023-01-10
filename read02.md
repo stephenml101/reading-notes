@@ -27,3 +27,5 @@ manager, a compiler, and a debugger all in one software package.
 [Basic Navigation](https://ryanstutorials.net/linuxtutorial/navigation.php)
 
 [About Files](https://ryanstutorials.net/linuxtutorial/aboutfiles.php)
+
+[Back to Table of Contents](./README.md)
