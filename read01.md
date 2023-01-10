@@ -4,7 +4,7 @@
 
 [Markdown Basic Syntax](https://www.markdownguide.org/basic-syntax/)
 
-## Things that stood out
+### Things I want to know more about
 * Headings use the "#" symbol. The more symbols there are, the less important the heading is.
 * Alternatively, on the line below the text, add any number of == characters for heading level 1 or -- characters for heading level 2.
 * There should be blank lines before and after a heading
