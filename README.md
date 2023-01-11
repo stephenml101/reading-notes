@@ -13,28 +13,28 @@ This website has all of my reading notes that I have done so far. Click through 
 
 * [Reading 1](./read01.md)
 * [Reading 2](./read02.md)
-* Reading 3
-* Reading 4
-* Reading 5
-* Reading 6
-* Reading 7
-* Reading 8
+* [Reading 3](./read03.md)
+* [Reading 4](./read04.md)
+* [Reading 5](./read05.md)
+* [Reading 6](./read06.md)
+* [Reading 7](./read07.md)
+* [Reading 8](./read08.md)
 * [Growth Mindset](./Growth-Mindset.md)
 
 **Class 201 Reading Notes**
 
-* Reading 1
-* Reading 2
-* Reading 3 
-* Reading 4 
-* Reading 5
-* Reading 6
-* Reading 7
-* Reading 8
-* Reading 9
-* Reading 10
-* Reading 11
-* Reading 12 
-* Reading 13
-* Reading 14
-* Reading 15
+* [Reading 1](./201.1.md)
+* [Reading 2](./201.2.md)
+* [Reading 3](./201.3.md) 
+* [Reading 4](./201.4.md) 
+* [Reading 5](./201.5.md)
+* [Reading 6](./201.6.md)
+* [Reading 7](./201.7.md)
+* [Reading 8](./201.8.md)
+* [Reading 9](./201.9.md)
+* [Reading 10](./201.10.md)
+* [Reading 11](./201.11.md)
+* [Reading 12](./201.12.md) 
+* [Reading 13](./201.13.md)
+* [Reading 14](./201.14.md)
+* [Reading 15](./201.15.md)
