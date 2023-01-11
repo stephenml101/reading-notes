@@ -1,4 +1,6 @@
-# Notes
+## Things I want to know more about
+
+These notes deal with learning the basics about CSS.
 
 [What is CSS?](https://developer.mozilla.org/en-US/docs/Learn/CSS/First_steps/What_is_CSS)
 
