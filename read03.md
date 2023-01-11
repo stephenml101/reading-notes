@@ -1,12 +1,20 @@
-# HTML Basics
+## Things I want to know more about
 
-[Before you code](https://careerfoundry.com/en/blog/ux-design/how-to-create-your-first-wireframe/)
+This topic matters because I need to know how to use my terminal in relationship to GitHub.
 
-* Wireframes arelow fidelity sketches of a digital interface
-* Tools used for this can be UXPin, InVision, Wirefream.cc
-* Wireframes can be physical or digital
+[Git Intro](https://blog.udemy.com/git-tutorial-a-comprehensive-guide/)
 
-[Mozilla HTML Basics](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/HTML_basics)
+The local Git repository has three components:
 
-* Tag is used for creating an element
-* 
+* Working Directory: The actual files reside here.
+* Index: The area used for staging
+* Head: Points to the most recent commit
+
+**The Life Cycle of a File Status**
+![Picture of Cycle](https://blog.udemy.com/wp-content/uploads/2015/08/image006.png)
+
+By running the git remote command, you can view the short names, such as “origin,” of all specified remote handles.
+
+By using git remote -v, you can view all the remote URLs next to their corresponding short names.
+
+To rename a remote’s short name, use the git remote rename command.
