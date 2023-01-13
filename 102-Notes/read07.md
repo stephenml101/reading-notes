@@ -6,6 +6,8 @@ In this reading assignment, I am expanding on my knowledge in using JavaScript.
 
 If someone does not fill out a field, script uses a conditional structure or if...else, so that different code executes depending on whether the form is complete or not (see link above).
 
+## Things I want to know more about
+
 * [Functions](https://www.w3schools.com/js/js_functions.asp)
 
 A JavaScript function is a block of code designed to perform a particular task.
