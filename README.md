@@ -23,10 +23,10 @@ This website has all of my reading notes that I have done so far. Click through 
 
 **Class 201 Reading Notes**
 
-* [Reading 1](./201-Notes/201.1.md)
-* [Reading 2](./201-Notes/201.2.md)
-* [Reading 3](./201-Notes/201.3.md) 
-* [Reading 4](./201-Notes/201.4.md) 
+* [Reading 1](./201-Notes/class-01.md)
+* [Reading 2](./201-Notes/class-02.md)
+* [Reading 3](./201-Notes/class-03.md) 
+* [Reading 4](./201-Notes/class-04.md) 
 * [Reading 5](./201-Notes/201.5.md)
 * [Reading 6](./201-Notes/201.6.md)
 * [Reading 7](./201-Notes/201.7.md)
