@@ -33,7 +33,7 @@ This website has all of my reading notes that I have done so far. Click through 
 * [Reading 8](./201-Notes/class-08.md)
 * [Reading 9](./201-Notes/class-09.md)
 * [Reading 10](./201-Notes/class-10.md)
-* [Reading 11](./201-Notes/201.11.md)
+* [Reading 11](./201-Notes/class-11.md)
 * [Reading 12](./201-Notes/201.12.md) 
 * [Reading 13](./201-Notes/201.13.md)
 * [Reading 14](./201-Notes/201.14.md)
