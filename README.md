@@ -35,6 +35,6 @@ This website has all of my reading notes that I have done so far. Click through 
 * [Reading 10](./201-Notes/class-10.md)
 * [Reading 11](./201-Notes/class-11.md)
 * [Reading 12](./201-Notes/class-12.md) 
-* [Reading 13](./201-Notes/201.13.md)
+* [Reading 13](./201-Notes/class-13.md)
 * [Reading 14](./201-Notes/201.14.md)
 * [Reading 15](./201-Notes/201.15.md)
