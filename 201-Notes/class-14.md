@@ -42,4 +42,22 @@
 
 [404](http://codepen.io/kieranfivestars/pen/MYdQxX)
 
+## Psychological Safety
 
+[What Google Learned From Its Quest to Build the Perfect Team](https://web.archive.org/web/20221125192300/https://www.nytimes.com/2016/02/28/magazine/what-google-learned-from-its-quest-to-build-the-perfect-team.html)
+
+1. What are three key factors that contribute to psychologically safe teams?
+
+- Members spoke in roughly the same proportion
+
+- Good teams all had high ‘‘average social sensitivity’’ — a fancy way of saying they were skilled at intuiting how others felt based on their tone of voice
+
+- Communcation and empathy
+
+2. Evaluate, with details, a previous professional setting (or team) you were in with regards to psychological safety.
+
+- I was in a real estate team meeting where I ran the meeting and all were encouraged to speak up and we helped each other get better.
+
+3. What impact do teams that operate with a high degree of psychological safety have on their company and the team members?
+
+- This allows for a great enviroment, where people can feel welcome. This allows for more productivity and retention. 
