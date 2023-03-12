@@ -38,3 +38,6 @@ This website has all of my reading notes that I have done so far. Click through 
 * [Reading 13](./201-Notes/class-13.md)
 * [Reading 14](./201-Notes/class-14.md)
 * [Reading 15](./201-Notes/201.15.md)
+
+**Class 301 Reading Notes**
+* [Introduction to React and Components](./301-Notes/class1.md)
