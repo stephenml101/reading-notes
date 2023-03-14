@@ -1,7 +1,7 @@
 # reading-notes
 ## **My Reading Journal for Code Fellows**
 
-![Pic of My Family](https://scontent.fphx1-1.fna.fbcdn.net/v/t1.6435-9/88363698_10220680755505363_2548429883147550720_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=174925&_nc_ohc=xWNzcj12ZBcAX8HVz1y&_nc_ht=scontent.fphx1-1.fna&oh=00_AfAUMGVWv_2cHcddobgw07iwMOAF31a2UscqKAfiru8xzQ&oe=63E5309B)
+![Pic of My Family](/img/famiy.jpeg)
 
 Hello! Welcome to my page! This is a picture of me (Stephen) and my beauiful wife, Ellie. I am a realtor full time and I also teach music part time. Once a month I serve in the Army National Guard. Now I'm a CodeFellows student! I'm excited to see what this year has in store! 
 
