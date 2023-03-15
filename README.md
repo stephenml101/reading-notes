@@ -42,3 +42,4 @@ This website has all of my reading notes that I have done so far. Click through 
 **Class 301 Reading Notes**
 * [Introduction to React and Components](./301-Notes/class1.md)
 * [State and Props](./301-Notes/class2.md)
+* [Passing Functions as Props](./301-Notes/class3.md)
