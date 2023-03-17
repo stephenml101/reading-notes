@@ -45,3 +45,4 @@ This website has all of my reading notes that I have done so far. Click through 
 * [State and Props](./301-Notes/class2.md)
 * [Passing Functions as Props](./301-Notes/class3.md)
 * [React and Forms](./301-Notes/class4.md)
+* [Putting it all together](./301-Notes/class5.md)
