@@ -47,3 +47,4 @@ This website has all of my reading notes that I have done so far. Click through 
 * [React and Forms](./301-Notes/class4.md)
 * [Putting it all together](./301-Notes/class5.md)
 * [Node.js](./301-Notes/class6.md)
+* [REST](./301-Notes/class7.md)
