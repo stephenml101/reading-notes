@@ -49,3 +49,4 @@ This website has all of my reading notes that I have done so far. Click through 
 * [Node.js](./301-Notes/class6.md)
 * [REST](./301-Notes/class7.md)
 * [APIs](./301-Notes/class8.md)
+* [Functional Programming](./301-Notes/class9.md)
