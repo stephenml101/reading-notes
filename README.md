@@ -52,3 +52,4 @@ This website has all of my reading notes that I have done so far. Click through 
 * [Functional Programming](./301-Notes/class9.md)
 * [In memory storage](./301-Notes/class10.md)
 * [MongoDB and Mongoose](./301-Notes/class11.md)
+* [CRUD](./301-Notes/class12.md)
