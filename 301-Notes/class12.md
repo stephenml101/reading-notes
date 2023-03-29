@@ -50,7 +50,7 @@
 
 5. What is the difference between PUT and PATCH?
 
-- PUT updates everything every time something new is added, but PATCH allows the info to get partially updated based off of input recieved.
+- PUT updates everything every time something new is added, but PATCH allows the info to get partially updated based off of input received.
 
 6. How do you make a default value in a schema?
 
@@ -62,4 +62,4 @@
 
 8. What is the difference between a status 200 and a status 201?
 
-- 200 means that the request was successfully received and processed. 201 means the request was successfull, and resource  was created.
+- 200 means that the request was successfully received and processed. 201 means the request was successful, and resource  was created.
