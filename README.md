@@ -54,3 +54,4 @@ This website has all of my reading notes that I have done so far. Click through 
 * [MongoDB and Mongoose](./301-Notes/class11.md)
 * [CRUD](./301-Notes/class12.md)
 * [More CRUD](./301-Notes/class13.md)
+* [Diversity & Inclusion in the Tech Industry](./301-Notes/class14.md)
