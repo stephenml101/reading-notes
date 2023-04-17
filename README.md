@@ -55,3 +55,7 @@ This website has all of my reading notes that I have done so far. Click through 
 * [CRUD](./301-Notes/class12.md)
 * [More CRUD](./301-Notes/class13.md)
 * [Diversity & Inclusion in the Tech Industry](./301-Notes/class14.md)
+
+**Class 401 Reading Notes**
+
+* [The Command Line](./401-Notes/prepwork-1.md)
