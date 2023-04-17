@@ -59,3 +59,4 @@ This website has all of my reading notes that I have done so far. Click through 
 **Class 401 Reading Notes**
 
 * [The Command Line](./401-Notes/prepwork-1.md)
+* [SQL](./401-Notes/prepwork-2.md)
