@@ -60,3 +60,4 @@ This website has all of my reading notes that I have done so far. Click through 
 
 * [The Command Line](./401-Notes/prepwork-1.md)
 * [SQL](./401-Notes/prepwork-2.md)
+*[The Growth Mondset](./401-Notes/prepwork-3.md)
