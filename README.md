@@ -64,3 +64,4 @@ This website has all of my reading notes that I have done so far. Click through 
 * [Java Basics](./401-Notes/class-01.md)
 * [Imports, Loops, and Arrays](./401-Notes/class-02.md)
 * [Primitives vs. Objects](./401-Notes/class-03.md)
+* [Java OO](./401-Notes/class-04.md)
