@@ -66,3 +66,4 @@ This website has all of my reading notes that I have done so far. Click through 
 * [Primitives vs. Objects](./401-Notes/class-03.md)
 * [Java OO](./401-Notes/class-04.md)
 * [Linked Lists](./401-Notes/class-05.md)
+* [Objects and Classes](./401-Notes/class-06.md)
