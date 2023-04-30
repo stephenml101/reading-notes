@@ -67,3 +67,4 @@ This website has all of my reading notes that I have done so far. Click through 
 * [Java OO](./401-Notes/class-04.md)
 * [Linked Lists](./401-Notes/class-05.md)
 * [Objects and Classes](./401-Notes/class-06.md)
+* [Don't repeat yourself](./401-Notes/class-08.md)
