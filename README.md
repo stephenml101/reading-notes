@@ -63,3 +63,4 @@ This website has all of my reading notes that I have done so far. Click through 
 *[The Growth Mindset](./401-Notes/prepwork-3.md)
 * [Java Basics](./401-Notes/class-01.md)
 * [Imports, Loops, and Arrays](./401-Notes/class-02.md)
+* [Primitives vs. Objects](./401-Notes/class-03.md)
