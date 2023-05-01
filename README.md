@@ -69,3 +69,5 @@ This website has all of my reading notes that I have done so far. Click through 
 * [Objects and Classes](./401-Notes/class-06.md)
 * [Don't repeat yourself](./401-Notes/class-08.md)
 * [HTTP](./401-Notes/class-09.md)
+* [Stacks & Queues](./401-Notes/class-09.5.md)
+* [Spring App](./401-Notes/class-10.md)
