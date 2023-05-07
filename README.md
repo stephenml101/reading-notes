@@ -72,3 +72,4 @@ This website has all of my reading notes that I have done so far. Click through 
 * [Stacks & Queues](./401-Notes/class-09.5.md)
 * [Spring App](./401-Notes/class-10.md)
 * [Spring Boot](./401-Notes/class-12.md)
+* [Data in Spring](./401-Notes/class-13.md)
