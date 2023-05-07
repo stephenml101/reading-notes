@@ -73,3 +73,4 @@ This website has all of my reading notes that I have done so far. Click through 
 * [Spring App](./401-Notes/class-10.md)
 * [Spring Boot](./401-Notes/class-12.md)
 * [Data in Spring](./401-Notes/class-13.md)
+* [Password Hashing](./401-Notes/class-14.md)
