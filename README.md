@@ -78,3 +78,4 @@ This website has all of my reading notes that I have done so far. Click through 
 * [Spring Security](./401-Notes/class-16.md)
 * [OAuth](./401-Notes/class-17.md)
 * [Security](./401-Notes/class-18.md)
+[Purely Functional Programming](./401-Notes/class-19.md)
