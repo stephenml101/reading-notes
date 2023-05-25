@@ -79,3 +79,4 @@ This website has all of my reading notes that I have done so far. Click through 
 * [OAuth](./401-Notes/class-17.md)
 * [Security](./401-Notes/class-18.md)
 [Purely Functional Programming](./401-Notes/class-19.md)
+* [Android Fundamentals](./401-Notes/reading-26.md)
