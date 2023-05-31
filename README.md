@@ -81,3 +81,4 @@ This website has all of my reading notes that I have done so far. Click through 
 [Purely Functional Programming](./401-Notes/class-19.md)
 * [Android Fundamentals](./401-Notes/class-26.md)
 * [Android Continued](./401-Notes/class-27.md)
+* [RecyclerView](./401-Notes/class-28.md)
