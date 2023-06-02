@@ -85,3 +85,4 @@ This website has all of my reading notes that I have done so far. Click through 
 * [Room](./401-Notes/class-29.md)
 * [Hash Tables](./401-Notes/class-30.md)
 * [AWS Amplify](./401-Notes/class-31.md)
+* [Graphs](./401-Notes/class-34.md)
