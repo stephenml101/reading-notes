@@ -88,3 +88,4 @@ This website has all of my reading notes that I have done so far. Click through 
 * [Serverless](./401-Notes/class-32.md)
 * [GraphQL Relationships](./401-Notes/class-33.md)
 * [Graphs](./401-Notes/class-34.md)
+* [Google's App Publishing](./401-Notes/class-35.md)
