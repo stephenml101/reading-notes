@@ -86,4 +86,5 @@ This website has all of my reading notes that I have done so far. Click through 
 * [Hash Tables](./401-Notes/class-30.md)
 * [AWS Amplify](./401-Notes/class-31.md)
 * [Serverless](./401-Notes/class-32.md)
+* [GraphQL Relationships](./401-Notes/class-33.md)
 * [Graphs](./401-Notes/class-34.md)
