@@ -90,3 +90,4 @@ This website has all of my reading notes that I have done so far. Click through 
 * [Graphs](./401-Notes/class-34.md)
 * [Google's App Publishing](./401-Notes/class-35.md)
 * [Amplify & Cognito](./401-Notes/class-36.md)
+* [Amazon S3](./401-Notes/class-37.md)
