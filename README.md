@@ -92,3 +92,4 @@ This website has all of my reading notes that I have done so far. Click through 
 * [Amplify & Cognito](./401-Notes/class-36.md)
 * [Amazon S3](./401-Notes/class-37.md)
 * [Location](./401-Notes/class-39.md)
+* [Amazon Pinpoint & Polly](./401-Notes/class-41.md)
