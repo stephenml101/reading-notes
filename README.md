@@ -93,3 +93,4 @@ This website has all of my reading notes that I have done so far. Click through 
 * [Amazon S3](./401-Notes/class-37.md)
 * [Location](./401-Notes/class-39.md)
 * [Amazon Pinpoint & Polly](./401-Notes/class-41.md)
+* [Google AdMob](./401-Notes/class-42.md)
